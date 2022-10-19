@@ -1,0 +1,2 @@
+# plantuml_mindmap_to_csv
+PlantUMLのMindMap（OrgMode）を、各枝を1行としたCSVファイルへ変換するスクリプト。
